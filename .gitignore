@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary captures — only commit intentional captures
+*.pcap
+
+# Keep .pcapng files (intentional captures go in captures/)
+# Remove this line if you want to exclude ALL captures:
+# *.pcapng
